@@ -1,8 +1,8 @@
 # PHYS220 CW 13 
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Aaron Grisez
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-13-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-13-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-13-aareston.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-13-aareston)
 
 **Due date:** 2016/12/06
 
@@ -55,6 +55,8 @@ As written, this will use ```numpy``` in a vectorized way as we have been using 
 
 * Copy your CW12 into this repository and modify the code base to use ```numba```. Are you able to speed up the run time of your Runge-Kutta integration?
 
+### Short answer: no.
+
 ## Assessment
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
@@ -70,4 +72,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Aaron Grisez
