@@ -1,6 +1,6 @@
 # PHYS220 CW 13 
 
-**Author(s):** Aaron Grisez
+**Author(s):** Aaron Grisez, Preston Kamada
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-13-aareston.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-13-aareston)
 
@@ -61,7 +61,7 @@ As written, this will use ```numpy``` in a vectorized way as we have been using 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+We found this assignment to be useful as we tried to use numba and see if implementing it in our code would increase speeds.
 
 ## Honor Pledge
 
@@ -73,3 +73,4 @@ I pledge that all the work in this repository is my own with only the following 
 Signed,
 
 Aaron Grisez
+Preston S Kamada
